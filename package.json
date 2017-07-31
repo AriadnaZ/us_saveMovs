@@ -1,0 +1,11 @@
+{
+  "name": "us_savemovs",
+  "version": "1.0.0",
+  "description": "It connects to us_carLane and save finished movements to remote db.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AriadnaZ",
+  "license": "ISC"
+}
