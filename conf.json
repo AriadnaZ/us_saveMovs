@@ -1,0 +1,21 @@
+{
+    "laneinfo": {
+        "establishment": 1,
+        "id": 1,
+        "name": "Entrada lateral",
+        "direction": "E"
+    },
+    "lane": {
+        "host": "ws://localhost:8080/ws",
+        "name": "lane1"
+    },
+    "mysql": {
+        "host": "192.168.1.51",
+        "port": 3306,
+        "database": "bon_preu"
+    },
+    "movsBuffer": {
+        "fileName": "buffer.txt"
+    },
+    "name": "save1"
+}
